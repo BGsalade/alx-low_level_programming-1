@@ -1,0 +1,5 @@
+1. What is the size of p in this code?
+
+int *p;
+
+8 bytes
