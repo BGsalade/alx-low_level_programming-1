@@ -27,5 +27,7 @@ Returns a pointer to the array, or NULL if it fails
 Repo:
 
 GitHub repository: alx-low_level_programming
+
 Directory: 0x0B-malloc_free
+
 File: 0-create_array.c
