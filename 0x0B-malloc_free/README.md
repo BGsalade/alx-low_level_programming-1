@@ -1,8 +1,8 @@
 Requirements
 
 General
-Allowed editors: vi, vim, emacs
-All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
+Allowed editors: vi, vim, emacs.
+All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89.
 All your files should end with a new line
 A README.md file, at the root of the folder of the project is mandatory
 Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
@@ -17,17 +17,14 @@ Don’t forget to push your header file
 
 Tasks
 0. Float like a butterfly, sting like a bee
-
 Write a function that creates an array of chars, and initializes it with a specific char.
 
-*Prototype: char *create_array(unsigned int size, char c);
-*Returns NULL if size = 0
-*Returns a pointer to the array, or NULL if it fails
+Prototype: char *create_array(unsigned int size, char c);
+Returns NULL if size = 0
+Returns a pointer to the array, or NULL if it fails
 
 Repo:
 
 GitHub repository: alx-low_level_programming
-
 Directory: 0x0B-malloc_free
-
 File: 0-create_array.c
