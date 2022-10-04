@@ -1,3 +1,5 @@
+######C - MALLOC FREE
+
 Task #0. Create_Array.C
 
 Write a function that creates an array of chars, and initializes it with a specific char.
