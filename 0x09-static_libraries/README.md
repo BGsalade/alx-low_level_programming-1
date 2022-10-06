@@ -1,13 +1,6 @@
 0x09. C - Static libraries
 ==========================
 
-Concepts
---------
-
-*For this project, students are expected to look at this concept:*
-
--   [C static libraries](https://alx-intranet.hbtn.io/concepts/61)
-
 **man or help**:
 
 -   `ar`
