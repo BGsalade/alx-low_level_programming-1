@@ -24,17 +24,16 @@ malloc returns an address
 
 Question #4
 What is wrong with this code:
-int cp(void)
 
+int cp(void)
 {
-char *s;
-s = malloc(12);
-strcpy(s, "Best School");
-return (0);
+	char *s;
+	s = malloc(12);
+	strcpy(s, "Best School");
+	return (0);
 }
 
 >>There is no comment
-
 >>malloc can fail so we should check its return value all the time before using the pointers returned by the function.
 
 Question #5
@@ -46,6 +45,7 @@ free("Best School");
 Question #6
 You can do this:
 char str[] = "Best School";
+
 free (str);
 
 >>No
@@ -56,7 +56,7 @@ char *s;
 s = strdup("Best School");
 if (s != NULL)
 {
-free(s);
+	free(s);
 }
 
 >>Yes
@@ -69,13 +69,12 @@ The memory space reserved when calling malloc is on:
 Question #9
 What will you see on the terminal?
 int main(void)
-
 {
-int *ptr;
+	int *ptr;
 
-*ptr = 98;
-printf("%d\n", *ptr);
-return (0);
+	*ptr = 98;
+	printf("%d\n", *ptr);
+	return (0);
 }
 
 >>Segmentation Fault
