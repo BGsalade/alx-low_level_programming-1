@@ -1,0 +1,5 @@
+C – More Malloc Free Quiz questions
+
+Question #0
+To allocate enough space for an array of 10 integers (on a 64bit, Linux machine), I can use:
+malloc(10 * sizeof(int))
