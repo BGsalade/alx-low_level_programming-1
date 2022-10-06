@@ -1,11 +1,6 @@
 0x09. C - Static libraries
 ==========================
 
--   By Julien Barbier
--   Ongoing project - started 09-17-2021, must end by 09-18-2021 (in about 7 hours) - you're done with 0% of tasks.
--   Checker will be released at 09-18-2021 12:00 AM
--   QA review fully automated.
-
 Concepts
 --------
 
@@ -13,25 +8,11 @@ Concepts
 
 -   [C static libraries](https://alx-intranet.hbtn.io/concepts/61)
 
-Resources
----------
-
-**Read or watch**:
-
--   [What Is A "C" Library? What Is It Good For?](https://alx-intranet.hbtn.io/rltoken/XB1iH0qE6gshx0x8TfRAPQ "What Is A "C" Library? What Is It Good For?")
--   [Creating A Static "C" Library Using "ar" and "ranlib"](https://alx-intranet.hbtn.io/rltoken/XB1iH0qE6gshx0x8TfRAPQ "Creating A Static "C" Library Using "ar" and "ranlib"")
--   [Using A "C" Library In A Program](https://alx-intranet.hbtn.io/rltoken/XB1iH0qE6gshx0x8TfRAPQ "Using A "C" Library In A Program")
--   [What is difference between Dynamic and Static library(Static and Dynamic linking)](https://alx-intranet.hbtn.io/rltoken/PexOGO-npR_ZDQk-SpOR9g "What is difference between Dynamic and Static library(Static and Dynamic linking)") (*stop at 4:44*)
-
 **man or help**:
 
 -   `ar`
 -   `ranlib`
 -   `nm`
-
-Learning Objectives
--------------------
-
 
 Requirements
 ------------
@@ -61,18 +42,10 @@ Requirements
 -   A `README.md` file, at the root of the folder of the project, describing what each script is doing
 -   All your files must be executable
 
-More Info
----------
-
-You do not need to learn about dynamic libraries, yet.
-
-
 Tasks
 -----
 
 ### 0\. A library is not a luxury but one of the necessities of life
-
-mandatory
 
 Create the static library `libmy.a` containing all the functions listed below:
 
@@ -97,8 +70,8 @@ char *_strchr(char *s, char c);
 unsigned int _strspn(char *s, char *accept);
 char *_strpbrk(char *s, char *accept);
 char *_strstr(char *haystack, char *needle);
-
 ```
+
 If you haven't coded all of the above functions create empty ones with the right prototype.\
 Don't forget to push your `main.h` file to your repository. It should at least contain all the prototypes of the above functions.
 
@@ -200,9 +173,7 @@ julien@ubuntu:~/0x09. Static Librairies$ ./quote
 "At the end of the day, my goal was to be the best hacker"
     - Kevin Mitnick
 julien@ubuntu:~/0x09. Static Librairies$
-
 ```
-
 
 ```
 julien@ubuntu:~/0x09. Static Librairies$ ls *.c
@@ -260,7 +231,6 @@ julien@ubuntu:~/0x09. Static Librairies$ ar -t liball.a
 9-strcpy.o
 _putchar.o
 julien@ubuntu:~/0x09. Static Librairies$
-
 ```
 
 **Repo:**
@@ -303,7 +273,6 @@ julien@ubuntu:~/0x09. Static Librairies$ ar -t liball.a
 9-strcpy.o
 _putchar.o
 julien@ubuntu:~/0x09. Static Librairies$
-
 ```
 
 **Repo:**
