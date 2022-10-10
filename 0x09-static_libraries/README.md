@@ -1,6 +1,8 @@
 0x09. C - Static libraries
 ==========================
-
+```
+By: Julien Barbier
+```
 **man or help**:
 
 -   `ar`
