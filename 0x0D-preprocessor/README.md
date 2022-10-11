@@ -1,11 +1,5 @@
-0x0D. C - More Malloc Free
-==========================
-
-**man or help**:
-
--   `exit (3)`
--   `calloc`
--   `realloc`
+0x0D. C - Preprocessor
+======================
 
 Requirements
 ------------
