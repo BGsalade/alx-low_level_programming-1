@@ -47,4 +47,4 @@ Write a function that executes a function given as a parameter on each element o
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x0F-function_pointers`
 -   File: `1-array_iterator.c`
----------
+-----------------------------
