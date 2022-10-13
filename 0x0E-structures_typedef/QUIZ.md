@@ -1,20 +1,13 @@
 ```
-```
 `Quiz questions`
-```
-Question #0
+----------------
+
+### Question #\0
 You should write documentation for all the structures you create
+-  True
+-  As soon as I write my structure.
 
-
-True
-
-
-I’ll do it 5 minutes before the deadline when I try Betty on my header file
-
-
-As soon as I write my structure.
-
-Question #1
+### Question #\1
 The general syntax for a struct declaration in C is:
 
 struct tag_name {
