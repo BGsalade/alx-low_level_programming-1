@@ -18,58 +18,39 @@ struct tag_name {
 ```
 -  True
 
-
-False
-
-
-Maybe
-
-Question #2
+### Question \.2
 Those two codes do the same thing:
 
+```
 typedef struct point point;
 struct point {
    int    x;
    int    y;
 };
 point p = {1, 2};
+```
+```
 typedef struct point point;
 struct point {
    int    x;
    int    y;
 };
 point p = { .y = 2, .x = 1 };
+```
+-  True
 
-True
-
-
-False: the second does not compile
-
-
-False: the members of the structures will not have the same values
-
-Question #3
+### Question \.3
 Given this code:
 
+```
 struct point {
    int x;
    int y;
 };
 struct point my_point = { 3, 7 };
 struct point *p = &my_point;
+```
 To set the member y of my variable my_point to 98, I can do (select all valid answers):
-
-
-my_point.y = 98;
-
-
-my_point->y = 98;
-
-
-p.y = 98;
-
-
-(*p).y = 98;
-
-
-p->y = 98;
+-  my_point.y = 98;
+-  (*p).y = 98;
+-  p->y = 98;
