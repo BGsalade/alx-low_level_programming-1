@@ -1,5 +1,5 @@
 `Quiz Questions`
-----------------
+===============
 
 ### Question \.0
 You should write documentation for all the structures you create
@@ -17,6 +17,7 @@ struct tag_name {
 };
 ```
 -  True
+-------
 
 ### Question \.2
 Those two codes do the same thing:
@@ -38,6 +39,7 @@ struct point {
 point p = { .y = 2, .x = 1 };
 ```
 -  True
+-------
 
 ### Question \.3
 Given this code:
