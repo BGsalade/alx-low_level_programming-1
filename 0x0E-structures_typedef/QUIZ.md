@@ -55,8 +55,8 @@ struct point {
 struct point my_point = { 3, 7 };
 struct point *p = &my_point;
 ```
-**Answer**
 To set the member y of my variable my_point to 98, I can do (select all valid answers):
+**Answer**
 -  my_point.y = 98;
 -  (*p).y = 98;
 -  p->y = 98;
