@@ -6,16 +6,17 @@ You should write documentation for all the structures you create
 -  True
 -  As soon as I write my structure.
 
-### Question #\1
+### Question \.1
 The general syntax for a struct declaration in C is:
 
+```
 struct tag_name {
    type member1;
    type member2;
    /* declare as many members as desired, but the entire structure size must be known to the compiler. */
 };
-
-True
+```
+-  True
 
 
 False
