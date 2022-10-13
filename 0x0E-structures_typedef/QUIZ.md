@@ -2,7 +2,7 @@
 `Quiz questions`
 ----------------
 
-### Question #\0
+### Question \.0
 You should write documentation for all the structures you create
 -  True
 -  As soon as I write my structure.
