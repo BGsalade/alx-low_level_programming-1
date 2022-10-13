@@ -1,4 +1,4 @@
-0x0E. C - Structures, Typedef
+0x10. C - Variadic Functions
 =============================
 
 **man or help**
