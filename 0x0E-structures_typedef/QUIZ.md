@@ -3,6 +3,7 @@
 
 ### Question \.0
 You should write documentation for all the structures you create
+**Answer**
 -  True
 -  As soon as I write my structure.
 
@@ -16,6 +17,7 @@ struct tag_name {
    /* declare as many members as desired, but the entire structure size must be known to the compiler. */
 };
 ```
+**Answer**
 -  True
 -------
 
@@ -38,6 +40,7 @@ struct point {
 };
 point p = { .y = 2, .x = 1 };
 ```
+**Answer**
 -  True
 -------
 
@@ -52,6 +55,7 @@ struct point {
 struct point my_point = { 3, 7 };
 struct point *p = &my_point;
 ```
+**Answer**
 To set the member y of my variable my_point to 98, I can do (select all valid answers):
 -  my_point.y = 98;
 -  (*p).y = 98;

@@ -1,4 +1,4 @@
-0x0E. C - Structures, Typedef
+0x0E. C - Structures Typedef
 =============================
 
 Requirements
