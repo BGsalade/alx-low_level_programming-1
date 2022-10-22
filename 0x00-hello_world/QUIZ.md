@@ -1,5 +1,5 @@
-0x00. C - Hello World - Quiz
-============================
+`Quiz Questions`
+===============
 
 ### Question \.0
 In which category belongs the C programming language?
