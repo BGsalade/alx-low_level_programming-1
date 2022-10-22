@@ -5,23 +5,33 @@
 In which category belongs the C programming language?
 
 **Answer**
--   Compiled language
+```
+Compiled language
+```
 
 ### Question \.1
 What is the common extension for a C source file?
 
 **Answer**
--   .c
+```
+.c
+```
 
 ### Question \.2
 What is the common extension for a C header file?
--   .h
+
+**Answer**
+```
+.h
+```
 
 ### Question \.3
 Which command can be used to compile a C source file?
 
-**Answer*
--   gcc
+**Answer**
+```
+gcc
+```
 
 ### Question \.4
 Which of the following are both valid comment syntaxes in ANSI C, and Betty-compliant?
@@ -40,4 +50,6 @@ Which of the following are both valid comment syntaxes in ANSI C, and Betty-comp
 What are the different steps to form an executable file from C source code?
 
 **Answer**
--   Preprocessing, compilation, assembly, and linking
+```
+Preprocessing, compilation, assembly, and linking
+```
