@@ -24,14 +24,16 @@ Which command can be used to compile a C source file?
 Which of the following are both valid comment syntaxes in ANSI C, and Betty-compliant?
 
 **Answer**
--   `/* Comment */`
--    ```
-    /*
-     * Comment
-     */
- ```
+`/* Comment */`
+
+```
+/*
+ * Comment
+ */
+```
 
 ### Question \.5
 What are the different steps to form an executable file from C source code?
 
+**Answer**
 -   Preprocessing, compilation, assembly, and linking
