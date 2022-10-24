@@ -1,6 +1,6 @@
-<h1 align="center">ALX Low-level Programming </h1>
+<h1 align="center">ALX Low-Level Programming </h1>
 
-<h2 align="center">Hatching out </h2>
+<h2 align="center">Hatching Out </h2>
 
 ---
 
@@ -27,7 +27,7 @@
 10|[0x10. C - Variadic Functions ](./0x10-variadic_functions)|.......
 ---
 
-<h2 align="center">Data structures and Algorithms </h2>
+<h2 align="center">Data Structures and Algorithms </h2>
 
 ---
 
