@@ -1,4 +1,4 @@
-<h1 align="center">Low-level programming & Algorithm </h1>
+<h1 align="center">ALX Low-level Programming </h1>
 
 <h2 align="center">Hatching out </h2>
 
