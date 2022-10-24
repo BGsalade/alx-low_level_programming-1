@@ -27,8 +27,6 @@
 10|[0x10. C - Variadic Functions ](./0x10-variadic_functions)|.......
 ---
 
-<h1 align="center">ALX Low-level Programming </h1>
-
 <h2 align="center">Data structures and Algorithms </h2>
 
 ---
