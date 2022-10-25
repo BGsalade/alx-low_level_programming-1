@@ -360,4 +360,4 @@ julien@ubuntu:~/c/0x00$
 -   GitHub repository: `alx-low_level_programming`
 -   Directory: `0x00-hello_world`
 -   File: `101-quote.c`
----
+
