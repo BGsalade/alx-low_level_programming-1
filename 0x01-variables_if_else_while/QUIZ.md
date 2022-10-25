@@ -8,6 +8,7 @@ What is the size of the `unsigned int` data type?
 ```
 4 bytes
 ```
+---
 
 ### Question \.1
 What is the size of the `char` data type?
@@ -16,6 +17,7 @@ What is the size of the `char` data type?
 ```
 1 byte
 ```
+---
 
 ### Question \.2
 What is the size of the `float` data type?
@@ -24,6 +26,7 @@ What is the size of the `float` data type?
 ```
 4 bytes
 ```
+---
 
 ### Question \.3
 Which of the following are valid `if` statements in ANSI C and Betty-compliant? (Considering `a` and `b` two variables of type `int`)
@@ -41,6 +44,7 @@ if (a > b)
 if (a > b)
   return (a);
 ```
+---
 
 ### Question \.4
 Which of the following are valid `for` statements in ANSI C and Betty-compliant? (Considering `a` and `b` two variables of type `int`)
@@ -65,6 +69,7 @@ for (; a < b;)
     printf("%d\n", a++);
 }
 ```
+---
 
 ### Question \.5
 Which of the following are valid `while` or `do/while` statements in ANSI C and Betty-compliant? (Considering `a` and `b` two variables of type `int`)
